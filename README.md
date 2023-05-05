@@ -18,8 +18,17 @@ The course is divided into several modules, each focusing on a specific topic in
 2. Data Preprocessing
 3. Supervised Learning
 4. Unsupervised Learning
-5. Model Selection and Evaluation
-6. Popular Machine Learning Algorithms
+5. Linear Regresstion
+6. Logistic Regression
+7. Regularization
+8. Neural Networks
+9. Advice for applying machine learning
+9. Machine learning system design
+10. Support Vector Machines
+11. Clustering
+12. Dimensionality Reduction
+13. Anomaly detection
+
 
 Each module contains several lessons, each with a video tutorial, a set of practice exercises, and a quiz. You should complete each lesson before moving on to the next one.
 
